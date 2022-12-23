@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rohitudamale777@gmail.com**
 
-- ⚡ Fun fact **People are watching u dont kill them with boredom👀**
+- ⚡ Fun fact **People are watching u dont let them die with boredom👀**
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
