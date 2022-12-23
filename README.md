@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Rohit Laxman Udamale</h1>
 <h3 align="center">A student Currently pursuing B-TECH degree</h3>
 <br/>
@@ -22,6 +24,7 @@
 
 - ⚡ Fun fact **People are watching u dont let them die with boredom👀**
 <br/>
+<section align="center" >
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rohit__udamale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit__udamale" height="30" width="40" /></a>
@@ -42,3 +45,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&locale=en" alt="RoHit4100" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RoHit4100&" alt="RoHit4100" /></p>
+<br />
+<h3>Contribution🚀<h3/>
+
+  
+  ![snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
+<section/>
