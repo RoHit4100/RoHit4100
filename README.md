@@ -6,7 +6,7 @@
 <img src="https://github.com/RoHit4100/RoHit4100/blob/main/waves.svg" width="100%">
 
 <div/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RoHit4100&label=Profile%20views&color=0ca4a5&style=flat" width="100px" height="25px" alt="RoHit4100"/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RoHit4100&label=Profile%20views&color=0ca4a5&style=flat"  height="23px" alt="RoHit4100"/> 
 </p>
 <br/>
 <h2>About Me:</h2>
