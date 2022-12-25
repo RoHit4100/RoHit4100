@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans&weight=800&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+%F0%9F%91%8B;I'm+Rohit+Laxman+Udamale%F0%9F%98%8E;Welcome%2C+To+My+Profile%F0%9F%98%81)](https://git.io/typing-svg)
 
+<img src="https://github.com/RoHit4100/RoHit4100/blob/main/waves.svg" width="100%">
+
 <div/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RoHit4100&label=Profile%20views&color=0e75b6&style=flat" alt="RoHit4100"/> 
 </p>
