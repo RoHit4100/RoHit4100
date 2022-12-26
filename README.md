@@ -64,4 +64,27 @@
 
   
   ![snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
+    
+ <h2>Pinned<h2/>
+     
+<p align="center">
+<a href="https://github.com/RoHit4100/RoHit4100">
+<img width='450px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=DataStructue-And-Algorithms&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/RoHit4100/tinDog">
+<img width='450px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=tinDog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a> 
+</p>
+     
+<p align="center">
+<a href="https://github.com/RoHit4100/BlogWeb">
+<img width='450px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=BlogWeb&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/RoHit4100/portfolio">
+<img width='450px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a> 
+</p>
+    
 <section/>
