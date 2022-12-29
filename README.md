@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans&weight=800&size=25&pause=1000&center=true&vCenter=true&color=0CA4A5&width=435&lines=Hello%2C+%F0%9F%91%8B;I'm+Rohit+Laxman+Udamale%F0%9F%98%8E;Welcome%2C+To+My+Profile%F0%9F%98%81)](https://git.io/typing-svg)
 
 <img src="https://github.com/RoHit4100/RoHit4100/blob/main/waves.svg" width="100%">
+ <p align="center">
+  <img src="https://github.com/RoHit4100/RoHit4100/blob/main/RainbowLine.gif" width="100vw">
+ </p>
 
 <div/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RoHit4100&label=Profile%20views&color=0ca4a5&style=flat"  height="23px" alt="RoHit4100"/> 
@@ -59,9 +62,12 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
 <div/>
-<br />
+<p><p/>
 <h2>Contribution <img src="https://github.com/RoHit4100/RoHit4100/blob/main/hyperkitty.gif" width="25px" style="margin-bottom: -5px;"/><h2/>
-  
+ <p align="center">
+  <img src="https://github.com/RoHit4100/RoHit4100/blob/main/RainbowLine.gif" width="100vw">
+ </p>
+ 
   ![snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
     
  <h2>Pinned <img src="https://github.com/RoHit4100/RoHit4100/blob/main/pinned.webp" width="30px" height="30px" style="margin-bottom: -5px;"/><h2/>
@@ -90,4 +96,8 @@
 <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=To-Do-list-webApp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a> 
 </p>
+ <p align="center">
+  <img src="https://github.com/RoHit4100/RoHit4100/blob/main/RainbowLine.gif" width="100vw">
+ </p>
+
 <section/>
