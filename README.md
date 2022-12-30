@@ -1,23 +1,23 @@
--------------------------------------------------------<!-- Animated text -->-------------------------------------------------------
+<!--------------------------------------------------------- Animated text --------------------------------------------------------->
 <br/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans&weight=800&size=25&pause=1000&center=true&vCenter=true&color=0CA4A5&width=435&lines=Hello%2C+%F0%9F%91%8B;I'm+Rohit+Laxman+Udamale%F0%9F%98%8E;Welcome%2C+To+My+Profile%F0%9F%98%81)](https://git.io/typing-svg)
 
--------------------------------------------------------<!-- Waves and Rainbow gif-->-------------------------------------------------------
+<!--------------------------------------------------------- Waves and Rainbow gif--------------------------------------------------------->
 <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/svgs/waves.svg" width="100%">
  <p align="center">
   <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/RainbowLine.gif" width="100vw">
  </p>
 <div/>
 
--------------------------------------------------------<!-- Profile visitors counter -->-------------------------------------------------------
+<!--------------------------------------------------------- Profile visitors counter --------------------------------------------------------->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=RoHit4100&label=Profile%20views&color=0ca4a5&style=flat"  height="23px" alt="RoHit4100"/> 
 </p>
 <br/>
 
--------------------------------------------------------<!-- About me section  -->-------------------------------------------------------
+<!--------------------------------------------------------- About me section  --------------------------------------------------------->
 <h2>
   About Me 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" style="margin-bottom: -6px;" width="30px"/>
@@ -49,7 +49,7 @@
 <div/>
 <br/>
 
--------------------------------------------------------<!-- Contact with me section -->-------------------------------------------------------
+<!--------------------------------------------------------- Contact with me section --------------------------------------------------------->
 <section align="center">
   <h2 align="center">Contact With Me 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/contact-me.webp" width="30px" height="25px" style="margin-bottom: -6px;"/>
@@ -63,7 +63,7 @@
     <a href="https://hashnode.com/@hackur777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hackur777" height="30" width="40" /></a>
   </p>
 
--------------------------------------------------------<!-- Languages and tools section -->-------------------------------------------------------
+<!--------------------------------------------------------- Languages and tools section --------------------------------------------------------->
   <h2 align="center">Languages And Tools 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/tools.webp" width="30px" height="30px"  style="margin-bottom: -5px;"/>
   </h2>
@@ -72,8 +72,7 @@
   </p>
   <br/>
 
--------------------------------------------------------<!-- Stats section -->-------------------------------------------------------
-  <br/>
+<!--------------------------------------------------------- Stats section --------------------------------------------------------->
   <div align="center">
     <h2 align="center">Stats 
       <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/stats.webp" width="45px"  style="margin-bottom: -7px;margin-left:-3px;"/>
@@ -86,7 +85,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
   <div/>
 
--------------------------------------------------------<!-- Contribution Section -->-------------------------------------------------------
+<!--------------------------------------------------------- Contribution Section --------------------------------------------------------->
   <h2>Contribution 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/hyperkitty.gif" width="25px" style="margin-bottom: -5px;"/>
   <h2/>
@@ -98,11 +97,11 @@
 
   ![snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
     
--------------------------------------------------------<!-- Pinned section -->-------------------------------------------------------
+<!--------------------------------------------------------- Pinned section --------------------------------------------------------->
   <h2>Pinned 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/pinned.webp" width="30px" height="30px" style="margin-bottom: -5px;"/>
   <h2/>
--------------------------------------------------------<!-- Pinned repositories -->-------------------------------------------------------
+<!-- Pinned repositories -->
   <p align="center">
     <a href="https://github.com/RoHit4100/DataStructue-And-Algorithms">
       <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=DataStructue-And-Algorithms&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
