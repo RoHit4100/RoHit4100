@@ -13,9 +13,9 @@
 </p>
 <br/>
 <h2>About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30px"/></h2>
-
+<p>
 <img align="right" src="https://media1.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e4734ejryxa7mv81loiqlop9evgud08i7rmgn9h91rw&rid=200.webp&ct=g" width="400px" alt="coding"  />
-
+ </p>
 <div align="left">
 
 - 🔭 I’m currently working on **My-personal-project**
