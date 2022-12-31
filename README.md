@@ -31,9 +31,9 @@
 
 - 🔭 I’m currently working on **My-personal-project**
 
-- 🌱 I’m currently learning **nodeJS**
+- 🌱 I’m currently learning **reactJS**
 
-- 👯 I’m looking to collaborate on **@open_source**
+- 👯 I’m looking to collaborate on **Web development based projects**
 
 - 🤝 I’m looking for help with **how to contributing more..**
 
