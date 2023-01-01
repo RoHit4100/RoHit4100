@@ -80,7 +80,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoHit4100&layout=compact&theme=dark)](https://github.com/RoHit4100/github-readme-stats)
 
-  ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark)
+  ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark&card_width=400)
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
   <div/>
