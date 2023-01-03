@@ -125,7 +125,12 @@
     <a href="https://github.com/RoHit4100/To-Do-list-webApp">
       <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=To-Do-list-webApp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
     </a> 
+   <span>&nbsp;</span>
+    <a href="https://github.com/RoHit4100/Authenication-tutorial">
+      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=Authenication-tutorial&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    </a> 
   </p>
+   
   <p align="center">
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/RainbowLine.gif" width="100vw">
   </p>
