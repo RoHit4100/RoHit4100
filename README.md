@@ -110,8 +110,7 @@
     <a href="https://github.com/RoHit4100/tinDog">
       <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=tinDog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
     </a> 
-  </p>
-     
+  </p> 
   <p align="center">
     <a href="https://github.com/RoHit4100/BlogWeb">
       <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=BlogWeb&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
