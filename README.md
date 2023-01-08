@@ -94,9 +94,9 @@
   </p>
 
   <!-- Snake animation -->
-
-  ![snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
-    
+   
+   ![Snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
+   
 <!--------------------------------------------------------- Pinned section --------------------------------------------------------->
   <h2>Pinned 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/pinned.webp" width="30px" height="30px" style="margin-bottom: -5px;"/>
