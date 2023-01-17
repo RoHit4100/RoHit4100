@@ -77,12 +77,12 @@
     <h2 align="center">Stats 
       <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/stats.webp" width="45px"  style="margin-bottom: -7px;margin-left:-3px;"/>
     </h2>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoHit4100&layout=compact&theme=dark)](https://github.com/RoHit4100/github-readme-stats)
-
-  ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark&card_width=400)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoHit4100&layout=compact&theme=dark&card_width=300)](https://github.com/RoHit4100/github-readme-stats)  <span>&nbsp;</span> <span>&nbsp;</span> ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark&card_width=300)
+  
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
+  
   <div/>
 
 <!--------------------------------------------------------- Contribution Section --------------------------------------------------------->
@@ -95,7 +95,7 @@
 
   <!-- Snake animation -->
    
-   ![Snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
+  ![](./profile-3d-contrib/profile-night-rainbow.svg )
    
 <!--------------------------------------------------------- Pinned section --------------------------------------------------------->
   <h2>Pinned 
