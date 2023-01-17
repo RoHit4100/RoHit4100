@@ -84,7 +84,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
   
   <div/>
-
+<br/>
 <!--------------------------------------------------------- Contribution Section --------------------------------------------------------->
   <h2>Contribution 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/hyperkitty.gif" width="25px" style="margin-bottom: -5px;"/>
@@ -93,12 +93,14 @@
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/RainbowLine.gif" width="100vw">
   </p>
 
-  <!-- Snake animation -->
-   
-  ![](./profile-3d-contrib/profile-night-rainbow.svg )
-   
+  <!-- 3D Animation graph -->
+ <p>
+  
+   ![](./profile-3d-contrib/profile-night-rainbow.svg )
+  </p>
+
 <!--------------------------------------------------------- Pinned section --------------------------------------------------------->
-  <h2>Pinned 
+   <h2>Pinned 
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/pinned.webp" width="30px" height="30px" style="margin-bottom: -5px;"/>
   <h2/>
 <!-- Pinned repositories -->
