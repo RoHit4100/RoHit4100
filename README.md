@@ -98,6 +98,9 @@
   
    ![](./profile-3d-contrib/profile-night-rainbow.svg )
   </p>
+ <!-- Eating contribution graph snake  -->
+   
+ ![Snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
 
 <!--------------------------------------------------------- Pinned section --------------------------------------------------------->
    <h2>Pinned 
