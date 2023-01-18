@@ -78,7 +78,7 @@
       <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/stats.webp" width="45px"  style="margin-bottom: -7px;margin-left:-3px;"/>
     </h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoHit4100&layout=compact&theme=dark&card_width=300)](https://github.com/RoHit4100/github-readme-stats)  <span>&nbsp;</span> <span>&nbsp;</span> ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark&card_width=400)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoHit4100&layout=compact&theme=dark&card_width=320)](https://github.com/RoHit4100/github-readme-stats)  <span>&nbsp;</span> <span>&nbsp;</span> ![RoHit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoHit4100&show_icons=true&theme=dark&card_width=410)
   
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RoHit4100&theme=dark)](https://git.io/streak-stats)
@@ -94,47 +94,15 @@
   </p>
 
   <!-- 3D Animation graph -->
- <p>
+ <div width="400px">
   
    ![](./profile-3d-contrib/profile-night-rainbow.svg )
-  </p>
+  </div>
  <!-- Eating contribution graph snake  -->
    
  ![Snake animation](https://github.com/RoHit4100/RoHit4100/blob/output/github-contribution-grid-snake.svg)
 
-<!--------------------------------------------------------- Pinned section --------------------------------------------------------->
-   <h2>Pinned 
-    <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/webps/pinned.webp" width="30px" height="30px" style="margin-bottom: -5px;"/>
-  <h2/>
-<!-- Pinned repositories -->
-  <p align="center">
-    <a href="https://github.com/RoHit4100/DataStructue-And-Algorithms">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=DataStructue-And-Algorithms&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/RoHit4100/tinDog">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=tinDog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a> 
-  </p> 
-  <p align="center">
-    <a href="https://github.com/RoHit4100/BlogWeb">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=BlogWeb&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/RoHit4100/portfolio">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a> 
-  </p>
-  <p>
-    <a href="https://github.com/RoHit4100/To-Do-list-webApp">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=To-Do-list-webApp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a> 
-   <span>&nbsp;</span>
-    <a href="https://github.com/RoHit4100/Authenication-tutorial">
-      <img width='400px' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RoHit4100&repo=Authenication-tutorial&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a> 
-  </p>
-   
+
   <p align="center">
     <img src="https://github.com/RoHit4100/RoHit4100/blob/main/images/gifs/RainbowLine.gif" width="100vw">
   </p>
